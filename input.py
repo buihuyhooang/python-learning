@@ -7,3 +7,4 @@ print("Bạn năm nay " + age + " tuổi.")
 print("Xin chào, " + name + ". Năm nay, bạn " + age + " tuổi.")
 
 print(f"Xin chào, {name}. Năm nay, bạn {age} tuổi.")
+
